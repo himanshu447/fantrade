@@ -23,67 +23,67 @@ class AppStyle with ChangeNotifier {
   /// This theme uses the font names.
   static const TextTheme blackText = TextTheme(
     headline1: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black54,
         decoration: TextDecoration.none),
     headline2: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black54,
         decoration: TextDecoration.none),
     headline3: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black54,
         decoration: TextDecoration.none),
     headline4: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black54,
         decoration: TextDecoration.none),
     headline5: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     headline6: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     bodyText1: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     bodyText2: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     subtitle1: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     subtitle2: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black,
         decoration: TextDecoration.none),
     caption: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black54,
         decoration: TextDecoration.none),
     button: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black87,
         decoration: TextDecoration.none),
     overline: TextStyle(
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         inherit: true,
         color: Colors.black,
         decoration: TextDecoration.none),
@@ -98,67 +98,67 @@ class AppStyle with ChangeNotifier {
     headline1: TextStyle(
         inherit: true,
         color: Colors.white70,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     headline2: TextStyle(
         inherit: true,
         color: Colors.white70,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     headline3: TextStyle(
         inherit: true,
         color: Colors.white70,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     headline4: TextStyle(
         inherit: true,
         color: Colors.white70,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     headline5: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     headline6: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     subtitle1: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     bodyText1: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     bodyText2: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     caption: TextStyle(
         inherit: true,
         color: Colors.white70,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     button: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     subtitle2: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
     overline: TextStyle(
         inherit: true,
         color: Colors.white,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         decoration: TextDecoration.none),
   );
 
@@ -265,7 +265,7 @@ class AppStyle with ChangeNotifier {
       hintStyle: const TextStyle(
         fontSize: 14,
         fontWeight: FontWeight.w400,
-        fontFamily: 'Nunito',
+        fontFamily: 'Poppins',
         color: AppColor.silver,
       )
     ),
