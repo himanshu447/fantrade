@@ -9,6 +9,11 @@ class _SplashMobile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      backgroundColor: AppColor.bgColor,
+      body: Center(
+        child: Image.asset(AppIcon.icAppIcon),
+      ),
+    );
   }
 }

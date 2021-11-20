@@ -9,25 +9,11 @@ class EnumUtil {
   }
 }
 
-enum UrlEndPoint {
-  login,
-  checkCustomer,
-  customerAdd,
-  agreementForms,
-  submitAgreementForm,
-  customerCheckIn,
-  customerDetail,
-  logout,
-}
-
-enum FormFieldTypeEnum{
-  checkboxGroup,
-  date,
-  header,
-  number,
-  paragraph,
-  radioGroup,
-  select,
-  text,
-  textarea,
+enum BottomBarItemEnum{
+  chats,
+  star,
+  price,
+  cards,
+  profile,
+  search,
 }

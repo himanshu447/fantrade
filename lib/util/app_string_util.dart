@@ -6,6 +6,7 @@ class AppString{
   static const String ok = 'OK';
   static const String done = 'Done';
   static const String clear = 'Clear';
+  static const String rsIcon = '₹';
 
 
   //introduction
@@ -14,7 +15,8 @@ class AppString{
   static const String toEarnRealMoney = 'To earn real money.';
 
   //mobile number screen
-  static const String enterYourMobileNumber = 'Enter your mobile number';
+  static const String enterYour = 'Enter your';
+  static const String mobileNumber = 'mobile number';
   static const String sendYouConfirmationCode = 'We’ll send you a confirmation code';
   static const String continueStr = 'Continue';
 
@@ -42,7 +44,9 @@ class AppString{
   //detail
   static const String sell = 'Sell';
   static const String overview = 'Overview';
-  static const String leauges = 'Leauges';
+  static const String language = 'Languages';
   static const String orders = 'Orders';
+  static const String goals = ' Goals';
+  static const String games = ' Games';
 
 }

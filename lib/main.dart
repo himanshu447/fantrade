@@ -1,4 +1,9 @@
+import 'package:fantrade/theme/app_theme.dart';
+import 'package:fantrade/ui/views/home/home_view.dart';
+import 'package:fantrade/ui/views/splash/splash_view.dart';
+import 'package:fantrade/util/app_string_util.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'core/di.dart';
 
@@ -13,12 +18,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: AppString.appName,
+      theme: AppStyle.lightTheme,
+      home: SplashView(),
     );
   }
 }

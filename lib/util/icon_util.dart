@@ -4,6 +4,7 @@ class AppIcon {
   static const String icCsk = 'assets/images/ic_csk.png';
   static const String icDc = 'assets/images/ic_dc.png';
   static const String icDetailBg = 'assets/images/ic_detail_bg.png';
+  static const String icIntroIcon = 'assets/images/ic_intro_icon.png';
   static const String icHomeCardBg = 'assets/images/ic_home_card_bg.png';
   static const String icHomeDhoni = 'assets/images/ic_home_dhoni.png';
   static const String icHomeMessi = 'assets/images/ic_home_messi.png';

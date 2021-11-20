@@ -7,6 +7,9 @@ class AppColor {
   static const Color lightGreyColor = Color(0xFFF2F2F2);
   static const Color greyColor = Color(0xFFBFBFBF);
   static const Color darkGreyColor = Color(0xFF7F7F7F);
+  static const Color slideGreyColor = Color(0xFF555555);
+  static const Color appBarGreyColor = Color(0xFF404040);
+  static const Color yellowColor = Color(0xFFFFBE2E);
 
   static const Color primaryColor = Color(0xFF6300FF);
   static const Color accentColor = Color(0xff00D8A5);
@@ -15,6 +18,7 @@ class AppColor {
   static const Color blue = Color(0xFF00c1cf);
   static const Color borderColor = Color(0xFF919191);
   static const Color lightWhite = Color(0xFFf8f9fa);
+  static const Color liveMatchColor = Color(0xFFFF004E);
 
 
   static const Color red = Color(0xFFFF0000);

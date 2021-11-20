@@ -1,6 +1,10 @@
 library splash_view;
 
 import 'package:fantrade/ui/views/splash/splash_controller.dart';
+import 'package:fantrade/util/app_color_util.dart';
+import 'package:fantrade/util/app_string_util.dart';
+import 'package:fantrade/util/app_style.dart';
+import 'package:fantrade/util/icon_util.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:responsive_builder/responsive_builder.dart';
